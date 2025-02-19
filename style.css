@@ -1,0 +1,22 @@
+h1,h3,h5{
+    color: bisque;
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 0;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+h2,h4,h6{
+    color: rgb(173, 103, 17);
+    background-color: rgb(90, 13, 13);
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 0;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
