@@ -20,3 +20,16 @@ h2,h4,h6{
     margin: 10px 0;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
+p{
+    text-align: center;
+    color: rgb(138, 115, 12);
+    background-color: rgb(18, 8, 15);
+}
+
+button{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border : 2px dashed red;
+}
